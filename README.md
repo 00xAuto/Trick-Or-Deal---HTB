@@ -1,5 +1,7 @@
 # Trick or Deal
 
+## Note that I am a student and i m still learning, I would love feedback. Incase i said/mentioned something wrong, please correct me
+
 ```python
 from pwn import *
 
