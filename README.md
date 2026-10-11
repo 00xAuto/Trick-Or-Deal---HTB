@@ -6,7 +6,7 @@
 from pwn import *
 
 #io = process("./trick_or_deal")
-io = remote("154.57.164.78",42865)
+io = remote("10.10.10.10",1337)
 elf = context.binary = ELF("./trick_or_deal")
 
 
