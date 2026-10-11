@@ -1,4 +1,4 @@
-# Trick-Or-Deal-HTB# Trick or Deal
+# Trick or Deal
 
 ```python
 from pwn import *
